@@ -199,6 +199,14 @@ body {
     height: 307px;
 }
 
+.fotosize1 {
+    display: none;
+}
+
+.fotosize2 {
+    display: none;
+}
+
 .hair {
    display: none;
 }
@@ -280,11 +288,21 @@ body {
     display: none;
 }
 
-    .fotosize {
+    .fotosize2 {
+        display: flex;
 
     width: 360px;
     height: 208px;
 }
+
+   .fotosize{
+    display: none;
+   }
+
+   .fotosize1 {
+    display: none;
+   }
+
     .reviews {
     display: none;}
 
@@ -319,11 +337,18 @@ body {
     
 }
 
-   .fotosize {
-
+   .fotosize1 {
+    display: flex;
     width: 320px;
     height: 176px;
 }
+    .fotosize{
+        display: none;
+    }
+
+    .fotosize2 {
+        display: none;
+    }
 
     .two{
         display: none;
